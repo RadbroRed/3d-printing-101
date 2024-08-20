@@ -9,7 +9,7 @@ Teaching materials:
 -room (capital hill - rent)
 -Tons of filament (PLA,PETG,TPU)
 
-Deliverables:
+Deliverables:<br>
 -You will receive a custom fidget toy of your choice for showing up<br>
 -You will make a GitHub account with help<br>
 -You will make a custom name tag with help<br>

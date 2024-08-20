@@ -1,4 +1,4 @@
-Syllabus - 3d printing for Curious Minds: How to make anything you imagine
+<p>Syllabus - 3d printing for Curious Minds: How to make anything you imagine
 
 Requirements:
 -Narnia reading level or above
@@ -28,3 +28,4 @@ HOMEWORK FINAL TEST - Design final 3d model at home (completion award)
 
 
 EXTENDED - Basic coding and robotics?  (Make open cat - https://www.petoi.com/pages/opencat-open-source-robot-pet-framework)
+</p>

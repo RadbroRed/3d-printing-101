@@ -10,10 +10,10 @@ Teaching materials:
 -Tons of filament (PLA,PETG,TPU)
 
 Deliverables:
--You will receive a custom fidget toy of your choice for showing up
--You will make a GitHub account with help
--You will make a custom name tag with help
--You will make a final award of your choice, on your own, to pass the course
+-You will receive a custom fidget toy of your choice for showing up<br>
+-You will make a GitHub account with help<br>
+-You will make a custom name tag with help<br>
+-You will make a final award of your choice, on your own, to pass the course<br>
 
 1. We’re making fidget toys! (Choose on website before class)
 2. A history and philsophy of the open source maker movement
